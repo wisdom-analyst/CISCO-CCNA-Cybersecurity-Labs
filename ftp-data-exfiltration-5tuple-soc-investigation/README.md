@@ -77,4 +77,4 @@ The attacker gained root access via SSH, harvested credentials and account data 
 
 ## Full Report
 
-Key evidence is shown inline above. The complete walkthrough, including every step, all tool views, and full analysis narrative, is available in the [full technical report](Technical Project Report (Lab 27.2.14).pdf).
+Key evidence is shown inline above. The complete walkthrough, including every step, all tool views, and full analysis narrative, is available in the [full technical report](Technical%20Project%20Report%20(Lab%2027.2.14).pdf)
